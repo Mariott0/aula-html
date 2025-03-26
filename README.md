@@ -26,13 +26,3 @@ Este projeto é um formulário web desenvolvido com HTML, CSS e Bootstrap 5.3.3,
 - **Bootstrap 5.3.3**: Framework para design responsivo e componentes prontos.
 - **JavaScript**: Incluído via Bootstrap para funcionalidades interativas (se necessário).
 
-## Como Usar
-
-1. **Pré-requisitos**:
-   - Um navegador web moderno (Chrome, Firefox, Edge, etc.).
-   - Não é necessário servidor, pois o projeto é estático.
-
-2. **Instalação**:
-   - Baixe ou clone este repositório:
-     ```bash
-     git clone <URL_DO_REPOSITORIO>
